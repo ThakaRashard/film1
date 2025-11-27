@@ -15,6 +15,14 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0hoARy5ZDBXKi7pZyspmhD9Weii32F6QvE7bgDPGg1yZk1LMnt4AvzAvgeXuRJ3U4l%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02S4pbz1EuzSnvwCmCcBwGyjfEemGtYnGbaJwpLuDYqAEFzz2S1NTXFGgva3pyPfXTl%26id%3D100084464911565&show_text=true&width=500" width="500" height="499" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid023xUb6H9F5FbqQ3NzGgPhkAT6BKka5YLdkkDnNqeeQ2oiGAusGLz8Rtb5bsSFhQeql%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 [comment]: <> (Emergency Files )
 
 
@@ -34,7 +42,7 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 2 Counties: San Luis Obispo, Santa Barbara
 [@StateOfCalifornia](https://www.fire.ca.gov/incidents/2025/8/1/gifford-fire)
 
-<div class="tupperware">
+
  
 <video controls> 
 
@@ -43,14 +51,6 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 </video> 
 
-<video controls> 
-
-<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
-<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2025AUG01-to-2025SEP04-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">
-
-</video> 
-
-</div>
 
 [Los Angeles River - The Unpredictable!](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [@ladwp history](https://ladpw.org/wmd/watershed/LA/History.cfm)
  @blackgirlscode @podaac
