@@ -6,6 +6,166 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+`jekyll.version`  {{ jekyll.version }}
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+
+  
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+## Hole To Another Universe
+One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
+
+[comment]: <> (Emergency Files )
+
+
+<video controls> 
+
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+
+</video> 
+
+
+
+# GLifford Fire
+2021 to 2025 Area Comparison
+100% Contained
+131,614 Acres
+2 Counties: San Luis Obispo, Santa Barbara
+[@StateOfCalifornia](https://www.fire.ca.gov/incidents/2025/8/1/gifford-fire)
+
+<div class="tupperware">
+ 
+<video controls> 
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/ezgif-743af2e85bf09573.mp4" type="video/mp4">
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/ezgif-743af2e85bf09573.mp4" type="video/mp4">
+
+</video> 
+
+<video controls> 
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2025AUG01-to-2025SEP04-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">
+
+</video> 
+
+</div>
+
+[Los Angeles River - The Unpredictable!](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [@ladwp history](https://ladpw.org/wmd/watershed/LA/History.cfm)
+ @blackgirlscode @podaac
+
+
+
+<video controls  > 
+
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AA_0000AVID_20251123_191233_244.mp4" type="video/mp4">
+
+
+</video> 
+
+
+![π√π](https://waterandpower.org/M7%20Historic%20Photos%20M7/LA_River_1931.jpg) 
+
+![¥](https://waterandpower.org/1%20Historic%20Photos%201/Flood_1938.jpg)
+
+![stateofcaliforna](https://recovery.lacounty.gov/wp-content/uploads/2021/07/la-county-recovers-style-logo.png)
+
+
+# Entomological warfare 
+
+<a href="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3"><img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" style="width: 25%; height: auto;"/></a>
+
+[@Wikipedia](https://en.wikipedia.org/wiki/Entomological_warfare)
+EW is a specific type of [biological warfare](https://pmc.ncbi.nlm.nih.gov/articles/PMC7150198/) that uses insects in a direct attack or as vectors to deliver a biological agent, such as plague or cholera. Essentially, EW exists in three varieties.[2] One type of EW involves infecting insects with a pathogen and then dispersing the insects over target areas.[3] The insects then act as a vector, infecting any person or animal they might bite. Another type of EW is a direct insect attack against crops; the insect may not be infected with any pathogen but instead represents a threat to agriculture.[3] The final method of entomological warfare is to use uninfected insects, such as bees, to directly attack the enemy. Any organism that makes use of toxins—from bacteria to snakes—is engaging in a form of biological warfare. Humans who engage in biological warfare do so by taking advantage of these toxin-producing organisms. - [@NIH .gov Biological Warfare: Infectious Disease and Bioterrorism](https://pmc.ncbi.nlm.nih.gov/articles/PMC7150198/) Man has used poisons for assassination purposes ever since the dawn of civilization, not only against individual enemies but also occasionally against armies (Table 1). However, the foundation of microbiology by Louis Pasteur and Robert Koch offered new prospects for those interested in biological weapons because it allowed agents to be chosen and designed on a rational basis. -[nih.gov PMID: 12789407: The history of biological warfare Friedrich Frischknecht ](https://pmc.ncbi.nlm.nih.gov/articles/PMC1326439/) [National Biodefense Analysis and Countermeasures Center Location: Fort Detrick, MD](https://www.dhs.gov/science-and-technology/national-biodefense-analysis-and-countermeasures-center) [Disinformation and Epidemics: Anticipating the Next Phase of Biowarfare Rose Bernard](https://pmc.ncbi.nlm.nih.gov/articles/PMC9195489/) [Biowarfare, bioterrorism and biocrime: A historical overview on microbial harmful applications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7305902/) [Giving Full Measure to Countermeasures](https://www.ncbi.nlm.nih.gov/books/NBK215966/): Addressing Problems in the DoD Program to Develop Medical Countermeasures Against Biological Warfare Agents. [REad on nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK215957/#ddd00029) Biological weapons may be employed in various ways to gain a strategic or tactical advantage over the enemy, either by threats or by actual deployments. Like some chemical weapons, biological weapons may also be useful as area denial weapons. [Wiki @blackgirlscode](https://en.wikipedia.org/wiki/Biological_warfare)
+
+<a href="https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/st/Web/ST/20_0325_nbacc_logo_blue_revised.jpg.webp?itok=d0cYPGsk"><img   alt="image" src="https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/st/Web/ST/20_0325_nbacc_logo_blue_revised.jpg.webp?itok=d0cYPGsk" style="width: 15%; height: auto;"/></a>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0asNukzcA2ohcxazhghJ68WNhJdXrN49VTLcvwKUmZzP1K6ENe6V9bt1PBxZn3ExSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+`<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gaB14iEwGqYHcA1KDa8ytDsWBpyxzCVadbeJtr523ARMSF5mSncyNPokJne5Z6Dml%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>`
+
+<div class="tupperware">
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/cf235152-a4cc-4ec7-a00c-20bb73d452da" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/251e879a-9023-499f-b3b9-7d358aa6db44" />
+
+</div>
+
+Arcadia Police Department (CA) NASA Jet Propulsion Laboratory Congressmember Karen Bass Normani Brandy Michelle Obama Los Angeles County Board of Supervisors 
+Thaka Sartu
+Brandy United Nations Office for Outer Space Affairs (UNOOSA) Normani https://gist.github.com/.../57d7874e695debf31ffe933855fd5b01 Karen Bass Supervisor Holly J. MitchellSupervisor Janice Hahn
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/800855743547015168" data-did="7cd216a5299cb2deeb983c9221fa24c04cf97d99"><a href="https://rashardmro.tumblr.com/post/800855743547015168">https://rashardmro.tumblr.com/post/800855743547015168</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+@nasa-jpl @blackgirlscode [FridayNov21](https://www.google.com/search?sca_esv=9bd0e26604fdbc2f&rlz=1C1GCEJ_enUS1189US1189&q=november+21&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJgeXKnD4z7v_UXM32TmNnj1AiDPbPo_OFZLlB6cXa3f-GUf2_feRiFK2D2hbiHxQSH3uL8xuDRnlO2B4yDrM3CLjkXbjjOJI7VbCRDAbhwajKXFTWqDAtPpcKk5GzA2KStrzJNkhBGFrtmRcBV9X9uT87WGQA&sa=X&ved=2ahUKEwjR1bfw_oORAxVPJEQIHQg1NAQQ0pQJegQIFhAB&biw=958&bih=952&dpr=1)
+
+Kimberly Bryant, Founder Black Girls CODE Normani Brandy Georgia Department of Human Services #citationchallenge Black Girls Code Keisha Lance Bottoms some of them are tracked via L.A. County Department of Public Social Services the wise thing for #DFCS is to team with NASA - National Aeronautics and Space Administration via NASA's Kennedy Space Center , FEMA Federal Emergency Management Agency, the United States [Air Force](https://www.losangeles.spaceforce.mil/News/Article-Display/Article/4009111/the-sexual-assault-prevention-and-response-office-and-its-volunteer-victim-advo/) and NASA Jet Propulsion Laboratory to get the girls records straight... in the mean time this will help deter #DataThieves [Supervisor](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) Karen Bass [#BlackGirlSoftLife](https://www.tumblr.com/tagged/soft%20life) #blackgirlsinrealestate #BlackGirlsInTech
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Ynv9KHgBFVNhvimi7oVi4Fd4aLiYDVdUHX2DV1gsRvobWfcnEcT4F1rSQBM56kRKl%26id%3D100084464911565&show_text=true&width=500" width="500" height="764" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+#hygienetips Los Angeles County Board of Supervisors #BugWarfare is not addressed often .. I got a lot of bugs in my hair Congressmember Karen Bass while on the train and at breakfast... I saw a lady that look like Erika Brandy if that's corals mom I'm concerned and need a fresh start NPR Keisha Lance Bottoms Essence #relationshipAdvice duped into a relationship with an older person that's at a development cycle that overlaps Normani it's not fair 😩🤕🤕🤕🤕🤧😪😵😫😩😰😳🤯😓😟😥😢😢😢😢😢😢😭 WSAV News 3 On Your Side -#rashard NASA Mars Kash Doll I get you Georgia Division of Family & Children Services ... That's what's up DeKalb County Police Department Gavin Newsom #floodrelief NASA Earthdata 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gKyXs8V8kF5XWN2X6fCH2wNXCGCoKcQkeKv3VNq6dK6xCJBCehWYYghKjxSzN1Ghl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+###  California_Linux: 
+#### Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS
+[ViEW_ARCHiVE](https://archive.org/download/commitmentmaintenance)
+@cityoflosangeles @nasa-jpl @nasa-pds [MayOR_KAREN_BASS](https://www.facebook.com/100084464911565/videos/764029446698006/)
+[@StateOfCalifornia gavin.newsom@ca.gov](https://www.facebook.com/100084464911565/videos/764029446698006/)
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/422b5afd-490a-4ec0-af1d-d42ea25f694e" />
+
+
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE#####@NASA-JPL######hiCORAL###
+2 # ### How Wildfire Looked Across @CityOfLosAngeles #####
+3 # @StateOfCalifornia #`BrandyNorwood @BlackGirlsCode `##
+{% endhighlight %}
+
+
+
+<video controls  width="400" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+{% highlight python %}
+2 # ### How Wildfire looks across the continent ##############
+3 # ANOTHER########`BrandyNorwood @BlackGirlsCode `Production#
+{% endhighlight %}
+
+<video controls  width="400" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+
+
+[Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/images/msl_title.jpeg)
+
+[Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/headers/nsn.gif)]
+
+[Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/)
+
+[htau](https://rashardnasalosangelesjpl.github.io/ricothaka/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
+
 
 
 # CellularSoap
